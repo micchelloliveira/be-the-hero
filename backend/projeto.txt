@@ -1,0 +1,15 @@
+Escopo do projeto da ONG
+
+Entidades
+- ONG
+- Caso (Incident)
+
+Funcionalidades
+- Login de ONG
+- logout ONG
+- Cadastro ONG
+- cadastrar novos casos
+- Deletar novos casos
+- Listar casos especificos de uma ONG
+- Listar todos os casos
+- Entrar em contato com a ONG
